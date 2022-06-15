@@ -1,0 +1,21 @@
+.bottom-nav {
+ 
+    background: #F03226 !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+    font-weight: 500;
+}
+div#navbarNav {
+    border-top: 2px solid #FFF;
+    BORDER-BOTTOM: 2PX SOLID #FFF;
+    PADDING: 15PX;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active {
+    color: rgb(255 255 255);
+    border-bottom: 1px solid;
+    /* text-decoration: underline; */
+}
